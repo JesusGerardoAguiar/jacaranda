@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109" height="106" viewBox="0 0 109 106">
+  <defs>
+    <clipPath id="clip-graph">
+      <rect width="109" height="106"/>
+    </clipPath>
+  </defs>
+  <g id="graph" clip-path="url(#clip-graph)">
+    <g id="Group_124" data-name="Group 124" transform="translate(3.864 2.407)">
+      <g id="charts" transform="translate(0.611 0.386)">
+        <path id="Path_327" data-name="Path 327" d="M59.733,298.667h11.9v37.405h-11.9Z" transform="translate(-47.831 -241.158)" fill="none" stroke="#338935" stroke-width="1"/>
+        <path id="Path_328" data-name="Path 328" d="M153.6,187.733h11.9v59.509H153.6Z" transform="translate(-122.996 -152.328)" fill="none" stroke="#338935" stroke-width="1"/>
+        <path id="Path_329" data-name="Path 329" d="M247.467,247.467h11.9v47.607h-11.9Z" transform="translate(-198.16 -200.16)" fill="none" stroke="#338935" stroke-width="1"/>
+        <path id="Path_330" data-name="Path 330" d="M341.333,102.4h11.9v76.511h-11.9Z" transform="translate(-273.323 -83.997)" fill="none" stroke="#338935" stroke-width="1"/>
+        <path id="Path_331" data-name="Path 331" d="M435.2,25.6h11.9v91.813H435.2Z" transform="translate(-348.488 -22.499)" fill="none" stroke="#338935" stroke-width="1"/>
+        <path id="Path_332" data-name="Path 332" d="M100.314,95.214H6.8V1.7a1.7,1.7,0,1,0-3.4,0V23.8H1.7a1.7,1.7,0,0,0,0,3.4H3.4v22.1H1.7a1.7,1.7,0,0,0,0,3.4H3.4v22.1H1.7a1.7,1.7,0,0,0,0,3.4H3.4v17H1.7a1.7,1.7,0,0,0,0,3.4H3.4v1.7a1.7,1.7,0,0,0,3.4,0v-1.7h17v1.7a1.7,1.7,0,0,0,3.4,0v-1.7h17v1.7a1.7,1.7,0,0,0,3.4,0v-1.7h17v1.7a1.7,1.7,0,0,0,3.4,0v-1.7h17v1.7a1.7,1.7,0,0,0,3.4,0v-1.7h11.9a1.7,1.7,0,0,0,0-3.4Z" fill="none" stroke="#338935" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
