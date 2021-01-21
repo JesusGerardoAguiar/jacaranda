@@ -161,6 +161,13 @@ dl {
   -webkit-transition-duration: 0.2s;
   -o-transition-duration: 0.2s;
 }
+
+.typewriter h5 {
+  color: white;
+}
+
+
+
 *:hover {
   transition-timing-function: ease-in-out;
   -ms-transition-timing-function: ease-in-out;
@@ -1435,7 +1442,7 @@ textarea.input-bg {
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
 }
 .box-shadow-light {
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 3px #5f3b99;
 }
 .box-shadow {
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
