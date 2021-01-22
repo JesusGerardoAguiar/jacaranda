@@ -12751,6 +12751,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
   stroke: #fff !important;
 }
 .feature-box-8:hover div,
+.feature-box-8:hover h6,
 .feature-box-8:hover p {
   color: #fff;
 }
