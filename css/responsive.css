@@ -17,6 +17,9 @@
 #about-us{
         padding-top: 50px!important;
     }
+    .img-tree{
+        height: 320px!important;
+    }
 }
 
 @media (max-width: 1500px) {
